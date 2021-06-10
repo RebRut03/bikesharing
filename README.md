@@ -17,28 +17,42 @@ There is a description of the results for each visualization (7 pt)
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
   - Customer Type
+  
    ![Customer_Type](images/Customer_Type.PNG)
    ![Customer_Type_Key](images/Customer_Type_Key.PNG)
   
+  
   - Breakdown of Customer by Gender
+  
    ![Gender_BreakdownofCustomer](images/Gender_BreakdownofCustomer.PNG)
    ![Gender_BreakdownofCustomer_Key](images/Gender_BreakdownofCustomer_Key.PNG)
    
+   
   - Customer Trip Duration
+  
    ![Customer_TripDuration](images/Customer_TripDuration.PNG)
     
+    
   - Trip Duration by Gender
+  
    ![Gender_TripDuration](images/Gender_TripDuration.PNG)
     
+    
   - Trips by Day of Week per Hour
+  
    ![Trips_WeekdayperHour](images/Trips_WeekdayperHour.PNG)
+   
     
   - Trips by Day of Week per Hour Gender Breakdown
+  
    ![GenderTrips_WeekdayperHour](images/GenderTrips_WeekdayperHour.PNG)
-    
+  
+  
   - Trips by User Type and Gender by Day of Week per Hour
-   ![UserType_Gender_byWeekday](images/UserType_Gender_byWeekday.PNG)
-    
+  
+  ![UserType_Gender_byWeekday](images/UserType_Gender_byWeekday.PNG)
+  
+  
 
 ## **Bike-sharing Data Analysis Summary:**
 
