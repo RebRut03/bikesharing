@@ -48,7 +48,7 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
    ![GenderTrips_WeekdayperHour](images/GenderTrips_WeekdayperHour.PNG)
   
   
-  - Trips by User Type and Gender by Day of Week per Hour
+  - Trips by User Type and Gender by Day of Week
   
   ![UserType_Gender_byWeekday](images/UserType_Gender_byWeekday.PNG)
   
@@ -56,7 +56,7 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
 
 ## **Bike-sharing Data Analysis Summary:**
 
-Please refer to the [Bike-sharing Data Story](https://public.tableau.com/app/profile/rebekah.rutland/viz/Module14Challenge-BikesharingDataStory/BikesharingDataStory) for a full summary of results.
+Please refer to the [Bike-sharing Data Story](https://public.tableau.com/app/profile/rebekah.rutland/viz/Module14Challenge-BikesharingDataStory/BikesharingDataStory) and [Bike-sharing Data Dashboard](https://public.tableau.com/app/profile/rebekah.rutland/viz/Module14Challenge-BikesharingDashboard/BikesharingDataDashboard) for a full summary of results.
 
 
 
