@@ -11,9 +11,9 @@ Summary: Provide a high-level summary of the results and two additional visualiz
 
 One of the key stakeholders for this project would like to see a bike trip analysis to determine if a bike-sharing program in Des Moines is a solid business investment. The following set of visualizations were create to share with the stakeholder:
 
--The length of time that bikes are checked out for all riders and genders
--The number of bike trips for all riders and genders for each hour of each day of the week
--The number of bike trips for each type of user and gender for each day of the week
+  - The length of time that bikes are checked out for all riders and genders
+  - The number of bike trips for all riders and genders for each hour of each day of the week
+  - The number of bike trips for each type of user and gender for each day of the week
 
 
 
