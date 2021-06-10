@@ -24,8 +24,8 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
 
 ## **Bike-sharing Data Analysis Summary:**
 
-[BikesharingDataStory](https://public.tableau.com/app/profile/rebekah.rutland/viz/Module14Challenge-BikesharingDataStory/BikesharingDataStory)
-[link to story](LINK GOES HERE "link to dashboard")
+[Bike-sharing Data Story](https://public.tableau.com/app/profile/rebekah.rutland/viz/Module14Challenge-BikesharingDataStory/BikesharingDataStory)
+
 
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
