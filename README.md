@@ -2,7 +2,7 @@
 
 ## **Bike-sharing Data Analysis Overview:**
 
-One of the key stakeholders for this project would like to see a bike trip analysis to determine if a bike-sharing program in Des Moines is a solid business investment. The following set of visualizations were create to share with the stakeholder:
+One of the key stakeholders for this project would like to see a bike trip analysis to determine if a bike-sharing program in Des Moines is a solid business investment. The following set of visualizations were created to share with the stakeholder:
 
   - The length of time that bikes are checked out for all riders and genders
   - The number of bike trips for all riders and genders for each hour of each day of the week
@@ -29,7 +29,7 @@ Please refer to the [Bike-sharing Data Story](https://public.tableau.com/app/pro
    ![Customer_TripDuration](images/Customer_TripDuration.PNG)
     
     
-  - **Trip Duration by Gender -** The peak trip duration for males was 5 mintues with 108,087 riders.  The peak trip duration for females was 6 minutes with 34,151 riders. 
+  - **Trip Duration by Gender -** The peak trip duration for males was 5 minutes with 108,087 riders.  The peak trip duration for females was 6 minutes with 34,151 riders. 
   
    ![Gender_TripDuration](images/Gender_TripDuration.PNG)
     
@@ -44,7 +44,7 @@ Please refer to the [Bike-sharing Data Story](https://public.tableau.com/app/pro
    ![GenderTrips_WeekdayperHour](images/GenderTrips_WeekdayperHour.PNG)
   
   
-  - **Trips by User Type and Gender by Day of Week -** The most popular day for bike riding for male suscribers was Thursday.
+  - **Trips by User Type and Gender by Day of Week -** The most popular day for bike riding for male subscribers was Thursday.
   
   ![UserType_Gender_byWeekday](images/UserType_Gender_byWeekday.PNG)
   
@@ -52,6 +52,6 @@ Please refer to the [Bike-sharing Data Story](https://public.tableau.com/app/pro
 
 ## **Bike-sharing Data Analysis Summary:**
 
-The majority of the riders from the August 2019 NYC bikesharing data are male annual subscribers.  The peak riding hours for all riders are mornings and evenings during the week, although not as much on Wednesday evenings.  The peak riding hours on the weekends are more evenly spread throughout the day.  Trip duration is generally (approximatley 49%) 10 minutes or less during this time frame.
+The majority of the riders from the August 2019 NYC bike-sharing data are male annual subscribers.  The peak riding hours for all riders are mornings and evenings during the week, although not as much on Wednesday evenings.  The peak riding hours on the weekends are more evenly spread throughout the day.  Trip duration is generally (approximately 49%) 10 minutes or less during this time frame.
 
 I would suggest creating a population layer map of NYC that includes a borough border layer.  Then I would suggest comparing the age group statistics of riders in those areas and the population in those neighborhoods compared to the number of riders to determine where you might have your hubs or focus your efforts.  Then I would suggest doing a similar comparison to where these demographics of riders would be located in Des Moines.
