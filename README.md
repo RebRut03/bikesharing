@@ -18,5 +18,9 @@ Results: Using the visualizations you have in your Tableau Story, describe the r
 
 ## **Bike-sharing Data Analysis Summary:**
 
+[link to dashboard](LINK GOES HERE)
+[link to story](LINK GOES HERE "link to dashboard")
+
+
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
