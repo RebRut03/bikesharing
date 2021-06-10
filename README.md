@@ -52,7 +52,6 @@ Please refer to the [Bike-sharing Data Story](https://public.tableau.com/app/pro
 
 ## **Bike-sharing Data Analysis Summary:**
 
+The majority of the riders from the August 2019 NYC bikesharing data are male annual subscribers.  The peak riding hours for all riders are mornings and evenings during the week, although not as much on Wednesday evenings.  The peak riding hours on the weekends are more evenly spread throughout the day.  Trip duration is generally (approximatley 49%) 10 minutes or less during this time frame.
 
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+I would suggest creating a population layer map of NYC that includes a borough border layer.  Then I would suggest comparing the age group statistics of riders in those areas and the population in those neighborhoods compared to the number of riders to determine where you might have your hubs or focus your efforts.  Then I would suggest doing a similar comparison to where these demographics of riders would be located in Des Moines.
