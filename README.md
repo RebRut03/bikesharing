@@ -16,9 +16,15 @@ There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
+ ![Customer_Type](images/Customer_Type.PNG)
+ ![Customer_Type_Key](images/Customer_Type_Key.PNG)
+  
+ ![Gender_BreakdownofCustomer](images/Gender_BreakdownofCustomer.PNG)
+ ![Gender_BreakdownofCustomer_Key](images/Gender_BreakdownofCustomer_Key.PNG)
+
 ## **Bike-sharing Data Analysis Summary:**
 
-[link to dashboard](LINK GOES HERE)
+[BikesharingDataStory](https://public.tableau.com/app/profile/rebekah.rutland/viz/Module14Challenge-BikesharingDataStory/BikesharingDataStory)
 [link to story](LINK GOES HERE "link to dashboard")
 
 
